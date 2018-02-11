@@ -18,3 +18,14 @@ body {
 img {
   float: left;
 }
+
+li {
+  display: inline;
+  padding: 30px;
+}
+
+.column {
+  float: left;
+  width: 300px;
+  padding: 20px;
+}
